@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/exchange/app/Model/ExHouseInfoModel.php</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/View/ExHouseInfos/update_houseinfo.ctp</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/Controller/DashboardController.php</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/Controller/RemittanceController.php</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/Controller/ExHouseInfosController.php</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/View/Dashboard/index.ctp</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/View/ExHouseInfos/settings.ctp</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/Controller/ExchangeReportController.php</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/View/Elements/topmenu.ctp</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/Controller/ExUsersController.php</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/View/ExUsers/login.ctp</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/View/Remittance/beneficiary_info.ctp</file>
+            <file>file:/D:/xampp/htdocs/exchange/app/Model/ExUserModel.php</file>
+        </group>
+    </open-files>
+</project-private>
